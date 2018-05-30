@@ -1,7 +1,9 @@
 package step1;
 import java.util.Scanner;
 public class Series {
-
+/**
+ * 첫번째 값과 두번째 값을 입력하여 두 사이의 값들을 더하여 결과를 표시하시오
+ * */
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 
@@ -32,13 +34,7 @@ public class Series {
 						System.out.println(sum); 
 
 
-					/*int sum =0;
-					for(;start<=end; start++){
-						System.out.println(sum+=start);
-						}
-						
-						*/
-
+			
 
 				break;
 				default :System.out.println("ERROR");return;

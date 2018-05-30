@@ -1,6 +1,15 @@
 package step1;
 import java.util.Scanner;
 public class Calendar {
+	
+	/**
+	 * 월을 입력해서 해당 월의 마지막 날을
+       알려주는 로직.
+       예를 들면, 3월이면 말일이 3월31일입니다.
+       9월이면 말일이 9월30일입니다.라고 알려줌.
+       단 2월은 2월28일을 말일로 해서 2월28일입니다.
+    라고 함.
+	 * */
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);

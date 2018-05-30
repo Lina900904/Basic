@@ -1,8 +1,15 @@
 package step1;
 import java.util.Scanner;
 public class Howmuch {
-
 	public static void main(String[] args) {
+		/**
+		 * 제품 판매 대화를 만들어 가격 수량 할인율을 입력하였을때
+		 * 제품의 할인된 금액을 계산하여 표시하시오
+		 * 단 10% 이상의 할인을 요구할 경우 '안팔아요' 출력
+		 * 
+		 * */
+		
+
 		Scanner result = new Scanner(System.in);
 
 		System.out.println("얼마에요");

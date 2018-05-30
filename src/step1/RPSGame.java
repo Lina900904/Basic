@@ -1,6 +1,10 @@
 package step1;
 import java.util.Scanner;
 public class RPSGame {
+	
+	/**
+	 * 가위바위보를 입력하여 승자를 화면에 출력하시오
+	 * */
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);

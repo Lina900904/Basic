@@ -2,8 +2,14 @@ package step1;
 
 import java.util.Scanner;
 public class Calc4 {
-
 	public static void main(String[] args) {
+		
+		/**
+		 * 첫번째값, 두번째값, 연산자를 입력하여 계산값을 도출하여
+		 * 화면 출력값은 1+3/=4와 같이 표시하시오
+		 * 단 +-/* 외에 다른 연산자를 사용하였을때 "잘못된 연산자"를 표시하시오
+		 * 
+		 * */
 		Scanner scan = new Scanner(System.in);
 
 		System.out.println("첫번째 번호를 입력하세요");

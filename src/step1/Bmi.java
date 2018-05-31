@@ -32,9 +32,7 @@ public class Bmi {
  		double bmi = (kg / (dm*dm));
 
  		
- 		System.out.println(dm);
- 		
- 		if(bmi>=18.5 && bmi<23.0){
+ 	 if(bmi>=18.5 && bmi<23.0){
  			result = "정상";
  		}else if(bmi>=23.0 && bmi<25.0){
  			result = "비만 전단계";
@@ -55,6 +53,7 @@ public class Bmi {
  	}
 
  		}
+ 		
 		
 		
 		

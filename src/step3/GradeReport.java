@@ -30,7 +30,6 @@ public class GradeReport {
 	
 	
 	
-	
 	public static boolean input(int param) {
 		/*boolean flag = false;*/
 	/*	if(param>=0 && param<=100){

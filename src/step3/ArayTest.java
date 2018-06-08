@@ -35,7 +35,6 @@ public class ArayTest {
 							+ avg;
 					students[count] = student;
 					count++;
-				
 
 				break;
 				case "2":

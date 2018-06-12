@@ -29,7 +29,6 @@ public class step012 {
 					start = num2;
 					end = num1;
 				}
-
 				String result = "";
 
 				for (int i = start; i <= end; i++) {

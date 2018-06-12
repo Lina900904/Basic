@@ -2,7 +2,7 @@ package step3;
 
 import javax.swing.JOptionPane;
 
-public class RPSGame2 {
+public class RPSGame22 {
 
 	/**
 	 * 가위바위보를 입력하여 승자를 화면에 출력하시오
